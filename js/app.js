@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
 
 
@@ -104,4 +103,11 @@ $('a').smoothScroll({
   speed:2000,
 });
 
+$("#all-btn").click(function(){
+  $("#p5").show();
+  $("#p6").show();
 });
+
+});
+
+
