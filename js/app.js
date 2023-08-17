@@ -29,7 +29,7 @@ var waypoint = new Waypoint({
     p[4].setAttribute("style", "width:99%;transition:2.3s all;");
     p[5].setAttribute("style", "width:50%;transition:2.5s all;");
     p[6].setAttribute("style", "width:60%;transition:2.7s all;");
-
+    p[6].setAttribute("style", "width:40%;transition:3s all;");
   },
    offset: '90%'
 });
