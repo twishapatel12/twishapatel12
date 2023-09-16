@@ -1,10 +1,5 @@
 $(document).ready(function(){
 
-
-$(window).on('load',function(){
-  $('.preloader').addClass('complete')
-});
-
 $(window).on('scroll',function(){
   var scroll = $(window).scrollTop();
   console.log(scroll);
@@ -61,7 +56,7 @@ $child.each(function(){
 
 $('.owl-carousel').owlCarousel({
     loop:true,
-    // margin:10,   // since one item ou can remove it
+    // margin:10,  
     nav:false,
     // dots:true,
     autoplay:true,
@@ -77,15 +72,6 @@ var filterizd = $('.filter-container').filterizr({
    animationDuration: .5,
 
 });
-
-// $('.img-loaded').imagesLoaded()
-//   .done( function( instance ) {
-//     var filterizd = $('.filter-container').filterizr({
-//        animationDuration: .5,
-//
-//     });
-//   });
-
 
   var typed = new Typed(".element", {
   strings: ["Twisha Patel","Web Developer","Python Developer","UI/UX Designer"],
