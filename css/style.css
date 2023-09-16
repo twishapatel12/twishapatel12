@@ -345,7 +345,7 @@ footer .r-icon a:hover {
   .card{
     margin-top: 10px;
   }
-  #p3, #p4{
-    margin-top: 10px;
+  #p3, #p4, #contact{
+    margin-top: 0;
   }
 }
