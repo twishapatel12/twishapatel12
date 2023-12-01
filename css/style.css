@@ -235,6 +235,7 @@ header {
 }
 
 /* Experience */
+
 .experience a{
   color: #ee8683;
 }
@@ -252,12 +253,54 @@ header {
   font-size: 11px;
 }
 
-/* break section */
-.break{
-  height: 500px;
-  width:auto;
+/* Certifications */
+
+.certificate .member {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  width: 350px;
 }
+
+.certificate .member .credential a {
+  transition: color 0.3s;
+  margin: 0 3px;
+  padding-top: 7px;
+  padding-left: 10px;
+  border-radius: 50px;
+  width: 170px;
+  height: 36px;
+  background: #ee8683;
+  display: inline-block;
+  transition: ease-in-out 0.3s;
+  color: #fff;
+}
+.member-img:hover + img {
+  width: 700px;
+  height: 700px;
+}
+.member-info span{
+  color: #6c757d;
+}
+.certificate .member .credential a:hover {
+  background: #76c7ed;
+}
+
+.certificate .member .credential i {
+  font-size: 18px;
+}
+
+.certificate .member .member-info {
+  padding: 25px 15px;
+}
+
 /* Work */
+.work{
+  justify-content: space-evenly;
+}
 .work .card-wrapper {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -345,10 +388,7 @@ footer .r-icon a:hover {
   .card{
     margin-top: 10px;
   }
-  #p4, #contact{
-    margin-top: 0;
-  }
-  #p3{
+  #p3, #p4{
     margin-top: 10px;
   }
 }
