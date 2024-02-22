@@ -391,4 +391,7 @@ footer .r-icon a:hover {
   #p3, #p4{
     margin-top: 10px;
   }
+    #p8, #p7, #p4{
+    display: none;
+  }
 }
