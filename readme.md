@@ -133,7 +133,7 @@ Whether you’re working on exciting AI projects or just want to network — fee
 <h2 align="center">💼 Professional Experience</h2>
 
 <div align="center">
-  <ul>
+  <ul type="none">
     <li>🔹 <strong>AI/ML Intern</strong> @ Artem HealthTech <em>(Jan 2025 – June 2025)</em></li>
     <li>🔹 <strong>Web Development & Design Intern</strong> @ Oasis Infobyte <em>(Sept 2023 – Oct 2023)</em></li>
     <li>🔹 <strong>Web Development Intern</strong> @ Acmegrade <em>(Sept 2023 – Nov 2023)</em></li>
@@ -147,7 +147,7 @@ Whether you’re working on exciting AI projects or just want to network — fee
 <h2 align="center">🎖️ Certifications</h2>
 
 <div align="center">
-  <ul>
+  <ul type="none">
     <li>✅ Ubuntu Linux For Beginners - <em>Udemy</em></li>
     <li>✅ jQuery Basics - <em>Udemy</em></li>
     <li>✅ Web Analytics with Similarweb - <em>Udemy</em></li>
