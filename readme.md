@@ -100,7 +100,7 @@ Whether you’re working on exciting AI projects or just want to network — fee
 -->
 <!-- GitHub Profile README -->
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=58A6FF&width=435&lines=Hey!+I'm+Twisha+Patel!👋;Welcome+to+My+GitHub!" alt="Twisha Patel - Typing SVG" />
+   <h1 align="center">👋 Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </div>
@@ -113,7 +113,18 @@ Whether you’re working on exciting AI projects or just want to network — fee
 
 <h2 align="center">⚙️ Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,huggingface,nlp,git,docker,kubernetes,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"> Python |
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"> TensorFlow |
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"> OpenCV |
+  <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face"> Hugging Face |
+  <img src="https://skillicons.dev/icons?i=nlp" alt="NLP"> NLP |
+  <img src="https://skillicons.dev/icons?i=git" alt="Git"> Git |
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"> Docker |
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"> Kubernetes |
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"> HTML |
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"> CSS |
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"> JavaScript |
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"> Bootstrap
 </p>
 
 ---
@@ -162,23 +173,23 @@ Whether you’re working on exciting AI projects or just want to network — fee
   <table>
     <tr>
       <td><a href="https://github.com/twishapatel12/AutomaticSpeechRecognition"><strong>🔉 Automatic Speech Recognition</strong></a></td>
-      <td>Fine-tuned speech recognition model using Hugging Face Wav2Vec2 with Gradio deployment.</td>
+      <td>Developed a speech recognition system using Python and Hugging Face's Wav2Vec2 model, fine-tuned on the PolyAI MINDS-14 dataset and deployed with a real-time transcription interface using Gradio.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/twishapatel12/TrafficSignRecognition"><strong>🚦 Traffic Sign Recognition</strong></a></td>
-      <td>Deep learning classification model for traffic signs.</td>
+      <td>A deep learning model that classifies traffic signs using the German Traffic Sign dataset to assist autonomous vehicles in recognizing road signs.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/twishapatel12/TextToHandwriting"><strong>🖋️ Text to Handwriting</strong></a></td>
-      <td>Python app that converts typed text into handwriting.</td>
+      <td>A Python-based tool that converts typed text into a handwritten style image using the pywhatkit library.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/twishapatel12/VoiceAssistant"><strong>🎙️ Voice Assistant</strong></a></td>
-      <td>Interactive voice-controlled assistant built using Python.</td>
+      <td>A Python-based voice assistant that performs tasks like opening websites, playing music, and providing real-time information by recognizing voice commands. It leverages libraries like pyttsx3 for text-to-speech and speech_recognition for voice input.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/twishapatel12/TirthConstruction"><strong>🏗️ Tirth Construction Website</strong></a></td>
-      <td>Responsive website developed using HTML, CSS, Bootstrap, and jQuery.</td>
+      <td><a href="https://github.com/twishapatel12/AutoML-Pipeline"><strong>🤖 AutoML-Pipeline Service</strong></a></td>
+      <td>Upload data, auto-train ML models, and get instant reports with a user-friendly UI and FastAPI backend.</td>
     </tr>
   </table>
 </div>
