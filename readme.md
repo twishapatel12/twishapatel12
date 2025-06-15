@@ -100,7 +100,7 @@ Whether you’re working on exciting AI projects or just want to network — fee
 -->
 <!-- GitHub Profile README -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=58A6FF&width=435&lines=Hey!+I'm+Twisha+Patel👋;Welcome+to+My+GitHub!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=58A6FF&width=435&lines=Hey!+I'm+Twisha+Patel!👋;Welcome+to+My+GitHub!" alt="Twisha Patel - Typing SVG" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </div>
