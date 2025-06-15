@@ -100,8 +100,9 @@ Whether you’re working on exciting AI projects or just want to network — fee
 -->
 <!-- GitHub Profile README -->
 <div align="center">
-   <h1 align="center">👋 Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
-  <br><br>
+   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
+  <br>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
   <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </div>
 
@@ -113,18 +114,18 @@ Whether you’re working on exciting AI projects or just want to network — fee
 
 <h2 align="center">⚙️ Skills & Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"> Python |
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"> TensorFlow |
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"> OpenCV |
-  <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face"> Hugging Face |
-  <img src="https://skillicons.dev/icons?i=nlp" alt="NLP"> NLP |
-  <img src="https://skillicons.dev/icons?i=git" alt="Git"> Git |
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker"> Docker |
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"> Kubernetes |
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML"> HTML |
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS"> CSS |
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"> JavaScript |
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"> Bootstrap
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge"/></a>
+  <a href="https://www.nlp.com/"><img src="https://img.shields.io/badge/NLP-4EA94B?style=for-the-badge" alt="NLP Badge"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/></a>
 </p>
 
 ---
