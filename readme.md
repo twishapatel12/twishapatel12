@@ -125,15 +125,27 @@
 <!-- README.md for Twisha Patel | AI/ML Engineer | Aesthetic Profile -->
 
 <p align="center">
-  <img src="images/logo.png" width="140" style="border-radius:50%" alt="Twisha Patel Profile" />
+  <img src="images/logo.png" width="140" alt="Twisha Patel" style="border-radius:50%; box-shadow: 0 4px 24px #36c0f499;">
 </p>
 
-<div align="center">
-   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!" />
+</p>
+
+<h1 align="center">
+  <span style="color:#36c0f4;">Twisha Patel</span>
+</h1>
+
+<p align="center" style="font-size:1.15rem; color:#b3b9c5;">
+  <b>AI/ML Engineer &bull; Deep Learning &bull; LLMs & Automation</b><br>
+  <span>Turning ideas into <span style="color:#36c0f4;">AI-powered impact</span> 🚀</span>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Working animated" style="margin-bottom: 8px;" />
   <br>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-  <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</div>
+  <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=36c0f4&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
@@ -151,20 +163,46 @@
 I'm an enthusiastic **AI/ML Engineer** passionate about building intelligent, real-world solutions in deep learning, NLP, computer vision, and MLOps.  
 I believe in lifelong learning, open source, and teamwork. I love turning cutting-edge tech into practical value for everyone.
 
-- 👩‍🎓 BTech in Computer Science Engineering (Completed)
+- 👩‍🎓 BTech in Computer Science Engineering
 - 💡 Always exploring new AI trends & tools
 - 🤝 Open to collaboration or tech chats!
 - 🌱 Currently focusing on LLMs & MLOps
 
 ---
 
-## 🛠️ Skills
-
-- Python, JavaScript, PHP, MySQL
-- HTML5, CSS3, Bootstrap, Git & GitHub
-- TensorFlow, PyTorch, OpenCV, Hugging Face
-- NLP, Computer Vision, FastAPI, Docker, CI/CD
-- LLMs, Prompt Engineering, Model Deployment
+<h2 align="center">⚙️ Skills & Technologies</h2>
+<p align="center">
+  <!-- Programming Languages & DB -->
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/></a>
+  <br>
+  <!-- Web & Version Control -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <br>
+  <!-- ML/DL/AI Tools -->
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge"/></a>
+  <br>
+  <!-- Specialties & Frameworks -->
+  <a href="#"><img src="https://img.shields.io/badge/NLP-4EA94B?style=for-the-badge" alt="NLP Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge" alt="Computer Vision Badge"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=blue" alt="CI/CD Badge"/></a>
+  <br>
+  <!-- Advanced & Modern AI -->
+  <a href="#"><img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge" alt="LLMs Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prompt%20Engineering-F48FB1?style=for-the-badge" alt="Prompt Engineering Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Model%20Deployment-304FFE?style=for-the-badge" alt="Model Deployment Badge"/></a>
+</p>
 
 ---
 
@@ -173,7 +211,7 @@ I believe in lifelong learning, open source, and teamwork. I love turning cuttin
 - **BTech in Computer Science Engineering**  
   _ITM (SLS) Baroda University_  
   **CGPA:** 8.6  
-  _2021–2025 (Completed)_
+  _2021–2025
 
 - **Class XII**  
   _Shri J.R. Shah Bright Eng. Medium School_  
