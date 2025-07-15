@@ -1,99 +1,36 @@
 $(document).ready(function(){
+  // Sticky navbar background on scroll
+  $(window).on('scroll',function(){
+    var scroll = $(window).scrollTop();
+    if(scroll >=50){
+      $("nav.r-nav-custom").addClass("navbar-scrolled");
+    } else {
+      $("nav.r-nav-custom").removeClass("navbar-scrolled");
+    }
+  });
 
-$(window).on('scroll',function(){
-  var scroll = $(window).scrollTop();
-  console.log(scroll);
-  if(scroll >=50){
-    $(".sticky").addClass("stickyadd");
-  }else{
-    $(".sticky").removeClass("stickyadd");
-  }
-});
-
-// progress bars
-
-var waypoint = new Waypoint({
-  element: document.getElementById('skills'),
-  handler: function() {
-
-    var p = document.querySelectorAll('.progress-bar');
-    p[0].setAttribute("style", "width:95%;transition:1s all;");
-    p[1].setAttribute("style", "width:75%;transition:1.5s all;");
-    p[2].setAttribute("style", "width:85%;transition:1.7s all;");
-    p[3].setAttribute("style", "width:80%;transition:2s all;");
-    p[4].setAttribute("style", "width:75%;transition:2.3s all;");
-    p[5].setAttribute("style", "width:70%;transition:2.5s all;");
-    p[6].setAttribute("style", "width:50%;transition:2.7s all;");
-    p[7].setAttribute("style", "width:90%;transition:3s all;");
-  },
-   offset: '90%'
-});
-
-// adding fadeInUp animation to child of div with class .way-col
-var $child = $('.way-fade-up').children();
-$child.each(function(){
-  var self= $(this);
-  $(this).waypoint(function(){
-    self.addClass('animated fadeInUp');
-  },{offset: '90%'});
-});
-
-var $child = $('.way-fade-left').children();
-$child.each(function(){
-  var self= $(this);
-  $(this).waypoint(function(){
-    self.addClass('animated fadeInLeft');
-  },{offset: '90%'});
-});
-
-var $child = $('.way-fade-right').children();
-$child.each(function(){
-  var self= $(this);
-  $(this).waypoint(function(){
-    self.addClass('animated fadeInRight');
-  },{offset: '90%'});
-});
-
-$('.owl-carousel').owlCarousel({
-    loop:true,
-    // margin:10,  
-    nav:false,
-    // dots:true,
-    autoplay:true,
-    autoplayTimeout:4000,
-    items:1,
-    // animateOut : "fadeOut",
-    animateIn : "fadeInRight"
-
-});
-
-
-var filterizd = $('.filter-container').filterizr({
-   animationDuration: .5,
-
-});
-
+  // Typewriter animation
   var typed = new Typed(".element", {
-  strings: ["Twisha Patel","Python Developer","AI/ML Enthusiast","Deep Learning Explorer","MLOps Beginner"],
-  smartBackspace: true,
-   typeSpeed: 100,
-   backSpeed: 100,
-   loop: true,
-  loopCount: Infinity,
-  startDelay: 1000
+    strings: [
+      "Twisha Patel"
+    ],
+    smartBackspace: true,
+    typeSpeed: 70,
+    backSpeed: 40,
+    loop: true,
+    loopCount: Infinity,
+    startDelay: 700
+  });
+
+  // Smooth scrolling for anchor links (offset for fixed navbar)
+  $('a.nav-link').on('click', function(event){
+    var target = $(this.hash);
+    if(target.length){
+      event.preventDefault();
+      var navOffset = 80;
+      $('html, body').animate({
+        scrollTop: target.offset().top - navOffset
+      }, 600);
+    }
+  });
 });
-
-
-$('a').smoothScroll({
-
-  speed:2000,
-});
-
-$("#all-btn").click(function(){
-  $("#p5").show();
-  $("#p6").show();
-});
-
-});
-
-
