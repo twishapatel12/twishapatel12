@@ -290,12 +290,28 @@ nav .hamburger { color: var(--primary); font-size: 29px; }
 
 /* --- Education --- */
 .edu-card {
-  min-height: 240px; background: var(--card-bg); border-radius: 15px; margin: 0 auto; border: none;
-  color: #e3f1ff; box-shadow: 0 2px 22px 0 rgba(54,192,244,0.07);
+  min-height: 240px; 
+  background: var(--card-bg) !important; 
+  border-radius: 15px; 
+  margin: 0 auto; 
+  border: none;
+  color: #e3f1ff; 
+  box-shadow: 0 2px 22px 0 rgba(54,192,244,0.07);
 }
-.education-border { height: 2.3px; width: 38px; margin: 10px auto 14px auto; background: var(--primary);}
-.education .card-title { font-weight: 600; color: #66ccff; }
-.education .badge-info { background: var(--primary); color: #fff; font-weight: 600; }
+.education-border { 
+  height: 2.3px; 
+  width: 38px; 
+  margin: 10px auto 14px auto; 
+  background: var(--primary);
+}
+.education .card-title { 
+  font-weight: 600; 
+  color: #66ccff; 
+}
+.education .badge-info { 
+  background: var(--primary); 
+  color: #fff; 
+  font-weight: 600; }
 @media (max-width: 991.98px) { .edu-card { min-height: 200px; } }
 
 /* --- Experience --- */
@@ -337,7 +353,7 @@ nav .hamburger { color: var(--primary); font-size: 29px; }
   box-shadow: 0 2px 12px 0 rgba(54,192,244,0.22);
 }
 .exp-timeline-content {
-  background: var(--card-bg);
+  background: var(--card-bg) !important;
   border-radius: 15px;
   padding: 26px 32px 22px 28px;
   margin-left: 28px;
