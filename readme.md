@@ -1,7 +1,7 @@
 <div align="center">
-   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
+  <!--<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
   <br>
-  <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>-->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>-->
   <img src="images/logo.png" width="140" alt="Twisha Patel" style="border-radius:50%; box-shadow: 0 4px 24px #36c0f499;"><br>
   <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </div>
