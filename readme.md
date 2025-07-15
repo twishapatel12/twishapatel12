@@ -53,10 +53,10 @@
 <div align="center">
   <ul type="none">
     <li>    <strong>AI/ML Intern</strong> @ Artem HealthTech <em>(Jan 2025 – July 2025)</em></li>
-    <li>🔹 <strong>Built machine data integration solutions for the healthcare platform (automation & data flow).</li>
-    <li>🔹 <strong>Deployed real-time object detection using MMDetection RTMDet-tiny on live webcam feeds.</li>
-    <li>🔹 <strong>Developed agentic speech-to-text pipelines using open source models.</li>
-    <li>🔹 <strong>Fine-tuned finance-specific LLM (Flan-T5), optimized prompts for domain accuracy.</li>
+    <li>🔹Built machine data integration solutions for the healthcare platform (automation & data flow).</li>
+    <li>🔹Deployed real-time object detection using MMDetection RTMDet-tiny on live webcam feeds.</li>
+    <li>🔹Developed agentic speech-to-text pipelines using open source models.</li>
+    <li>🔹Fine-tuned finance-specific LLM (Flan-T5), optimized prompts for domain accuracy.</li>
   </ul>
 </div>
 
@@ -68,46 +68,46 @@
 
 <details>
 <summary><b>AutoML Pipeline Service</b></summary>
-<ul>
-  <li>Streamlit & FastAPI pipeline for dynamic ML model training, inference & benchmarking</li>
-  <li>Automated dataset profiling, model selection, versioning, and logging</li>
-  <li>Web UI for config, deployment & visualization</li>
+<ul type="none">
+  <li>🔹Streamlit & FastAPI pipeline for dynamic ML model training, inference & benchmarking</li>
+  <li>🔹Automated dataset profiling, model selection, versioning, and logging</li>
+  <li>🔹Web UI for config, deployment & visualization</li>
   <li><sub>Tech: Python, Streamlit, FastAPI, scikit-learn, Docker</sub></li>
 </ul>
 </details>
 
 <details>
 <summary><b>Object Detection (RTMDet-tiny)</b></summary>
-<ul>
-  <li>Real-time object detection using MMDetection & OpenCV (webcam live feed)</li>
-  <li>Bounding boxes & class labels (COCO weights)</li>
+<ul type="none">
+  <li>🔹Real-time object detection using MMDetection & OpenCV (webcam live feed)</li>
+  <li>🔹Bounding boxes & class labels (COCO weights)</li>
   <li><sub>Tech: Python, MMDetection, OpenCV</sub></li>
 </ul>
 </details>
 
 <details>
 <summary><b>Traffic Sign Recognition</b></summary>
-<ul>
-  <li>CNN model for German traffic sign classification (TensorFlow & Keras)</li>
-  <li>OpenCV preprocessing & augmentation for robustness</li>
+<ul type="none">
+  <li>🔹CNN model for German traffic sign classification (TensorFlow & Keras)</li>
+  <li>🔹OpenCV preprocessing & augmentation for robustness</li>
   <li><sub>Tech: Python, TensorFlow, OpenCV, Keras</sub></li>
 </ul>
 </details>
 
 <details>
 <summary><b>Finance-based Small LLM</b></summary>
-<ul>
-  <li>Fine-tuned Flan-T5 LLM on finance Q&A</li>
-  <li>Prompt engineering for contextual accuracy</li>
+<ul type="none">
+  <li>🔹Fine-tuned Flan-T5 LLM on finance Q&A</li>
+  <li>🔹Prompt engineering for contextual accuracy</li>
   <li><sub>Tech: Python, Hugging Face, Flan-T5</sub></li>
 </ul>
 </details>
 
 <details>
 <summary><b>Voice Assistant</b></summary>
-<ul>
-  <li>Desktop voice assistant (Python): reminders, music, web, info & more</li>
-  <li>Speech recognition & TTS integration</li>
+<ul type="none">
+  <li>🔹Desktop voice assistant (Python): reminders, music, web, info & more</li>
+  <li>🔹Speech recognition & TTS integration</li>
   <li><sub>Tech: Python, SpeechRecognition, pyttsx3</sub></li>
 </ul>
 </details>
