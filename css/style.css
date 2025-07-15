@@ -1,9 +1,3 @@
-html, body {
-  background: #10131a !important;
-  color: #f8f8f8;
-  font-family: "Nunito", sans-serif;
-}
-
 :root {
   --primary: #36c0f4;
   --bg-dark: #0a0a0a;
@@ -11,6 +5,13 @@ html, body {
   --card-bg: #1a2329;
   --text-main: #f8f8f8;
   --text-muted: #b3b9c5;
+}
+
+/* --- General/Body --- */
+body {
+  background: var(--bg-dark);
+  color: var(--text-main);
+  font-family: "Nunito", sans-serif;
 }
 
 a, a:visited { color: var(--primary); text-decoration: none; }
@@ -298,82 +299,72 @@ nav .hamburger { color: var(--primary); font-size: 29px; }
 @media (max-width: 991.98px) { .edu-card { min-height: 200px; } }
 
 /* --- Experience --- */
+/***** Experience Section (Timeline Style) *****/
 .exp-timeline {
   position: relative;
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
   padding-left: 32px;
-  max-width: 780px;
+  max-width: 760px;
   margin-right: auto;
   margin-left: auto;
 }
 .exp-timeline:before {
   content: '';
   position: absolute;
-  top: 25px;
-  left: 15px;
+  top: 18px;
+  left: 11px;
   width: 3px;
   height: 100%;
   background: linear-gradient(var(--primary), #224f77 98%);
-  opacity: 0.34;
+  opacity: 0.6;
   border-radius: 2px;
 }
 .exp-timeline-item {
   position: relative;
-  margin-bottom: 65px;
+  margin-bottom: 55px;
 }
 .exp-timeline-dot {
   position: absolute;
-  left: 0px;
-  top: 42px;
-  width: 19px;
-  height: 19px;
+  left: -4px;
+  top: 30px;
+  width: 17px;
+  height: 17px;
   background: var(--primary);
   border-radius: 50%;
-  border: 3.5px solid #181d23;
+  border: 3px solid #0a0a0a;
   z-index: 2;
-  box-shadow: 0 2px 14px 0 rgba(54,192,244,0.24);
+  box-shadow: 0 2px 12px 0 rgba(54,192,244,0.22);
 }
-
 .exp-timeline-content {
   background: var(--card-bg);
-  border-radius: 20px;
-  padding: 36px 38px 32px 32px;
-  margin-left: 38px;
-  box-shadow: 0 6px 32px 0 rgba(54,192,244,0.10), 0 2px 6px 0 #10131a;
-  min-height: 190px;
-  border: 1.5px solid #232a38;
-  transition: box-shadow 0.18s, border 0.18s, transform 0.14s;
-  position: relative;
+  border-radius: 15px;
+  padding: 26px 32px 22px 28px;
+  margin-left: 28px;
+  box-shadow: 0 2px 22px 0 rgba(54,192,244,0.07);
+  min-height: 170px;
 }
-.exp-timeline-content:hover {
-  box-shadow: 0 8px 54px 0 rgba(54,192,244,0.19), 0 2px 12px 0 #10131a;
-  border: 1.8px solid var(--primary);
-  transform: translateY(-3px) scale(1.015);
-}
-
 .exp-row {
   display: flex;
   align-items: flex-start;
   gap: 26px;
 }
 .exp-company-logo img {
-  width: 60px;
-  height: 60px;
+  width: 64px;
+  height: 64px;
   border-radius: 13px;
   background: #0a0a0a;
   object-fit: cover;
-  border: 2.5px solid var(--primary);
+  border: 2px solid var(--primary);
   margin-top: 7px;
-  box-shadow: 0 2px 16px 0 rgba(54,192,244,0.08);
 }
 .exp-details {
   flex: 1;
 }
 .exp-title-row {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.23em;
-  margin-bottom: 8px;
+  font-size: 1.17em;
+  margin-bottom: 7px;
   display: flex;
   align-items: center;
   gap: 12px;
@@ -381,20 +372,19 @@ nav .hamburger { color: var(--primary); font-size: 29px; }
 }
 .exp-role {
   color: var(--primary);
-  font-weight: 800;
-  font-size: 1.18em;
+  font-weight: 700;
+  font-size: 1.14em;
   letter-spacing: 0.02em;
-  margin-right: 7px;
 }
 .exp-company {
-  color: #8cb6e9;
-  font-weight: 600;
-  font-size: 1.06em;
+  color: #e6e6e6;
+  font-weight: 500;
+  font-size: 1.05em;
 }
 .exp-meta {
-  font-size: 1.03em;
-  margin-bottom: 14px;
-  color: #b7e6ff;
+  font-size: 0.99em;
+  margin-bottom: 11px;
+  color: var(--text-muted);
   display: flex;
   gap: 28px;
   align-items: center;
@@ -406,36 +396,35 @@ nav .hamburger { color: var(--primary); font-size: 29px; }
 }
 .exp-list {
   list-style: disc;
-  padding-left: 17px;
+  padding-left: 18px;
   margin: 0;
 }
 .exp-list li {
-  color: #c6daf5;
-  margin-bottom: 8px;
-  font-size: 1.08em;
+  color: #c3d6e9;
+  margin-bottom: 5px;
+  font-size: 1.06em;
   line-height: 1.7;
   text-align: left;
-  transition: color 0.14s;
 }
-.exp-timeline-content:hover .exp-list li {
-  color: #fff;
-}
+
+/* Responsive timeline */
 @media (max-width: 900px) {
-  .exp-timeline-content { padding: 23px 9px 18px 16px; }
+  .exp-timeline-content { padding: 20px 15px 20px 20px; }
   .exp-row { gap: 13px; }
-  .exp-company-logo img { width: 44px; height: 44px; }
+  .exp-company-logo img { width: 48px; height: 48px; }
 }
 @media (max-width: 700px) {
-  .exp-timeline { padding-left: 8px; }
-  .exp-timeline-content { margin-left: 9px; padding: 11px 5px 10px 6px; }
+  .exp-timeline { padding-left: 15px; }
+  .exp-timeline-content { margin-left: 17px; padding: 17px 7px 17px 13px; }
   .exp-title-row { font-size: 1em; gap: 8px; }
-  .exp-company-logo img { width: 30px; height: 30px; margin-top: 2px; }
+  .exp-company-logo img { width: 35px; height: 35px; margin-top: 2px; }
 }
 @media (max-width: 520px) {
-  .exp-timeline { padding-left: 2px; }
-  .exp-timeline-content { margin-left: 1px; padding: 7px 2px 7px 2px; }
+  .exp-timeline { padding-left: 6px; }
+  .exp-timeline-content { margin-left: 9px; padding: 13px 3px 13px 7px; }
   .exp-title-row { font-size: 0.93em; }
 }
+
 /* --- Projects (Work) --- */
 #work .card { border-radius: 1.25rem; box-shadow: 0 8px 32px 0 rgba(54,192,244,0.08); border: none;
   background: var(--card-bg); min-height: 320px; display: flex; flex-direction: column; justify-content: space-between;
