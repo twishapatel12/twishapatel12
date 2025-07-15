@@ -1,3 +1,9 @@
+html, body {
+  background: #10131a !important;
+  color: #f8f8f8;
+  font-family: "Nunito", sans-serif;
+}
+
 :root {
   --primary: #36c0f4;
   --bg-dark: #0a0a0a;
@@ -5,13 +11,6 @@
   --card-bg: #1a2329;
   --text-main: #f8f8f8;
   --text-muted: #b3b9c5;
-}
-
-/* --- General/Body --- */
-body {
-  background: var(--bg-dark) !important;
-  color: var(--text-main);
-  font-family: "Nunito", sans-serif;
 }
 
 a, a:visited { color: var(--primary); text-decoration: none; }
