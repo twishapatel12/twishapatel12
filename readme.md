@@ -128,17 +128,14 @@
   <img src="images/logo.png" width="140" alt="Twisha Patel" style="border-radius:50%; box-shadow: 0 4px 24px #36c0f499;">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!" />
-</p>
-
 <h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!" />
   <span style="color:#36c0f4;">Twisha Patel</span>
 </h1>
 
-<p align="center" style="font-size:1.15rem; color:#b3b9c5;">
+<p align="center">
   <b>AI/ML Engineer &bull; Deep Learning &bull; LLMs & Automation</b><br>
-  <span>Turning ideas into <span style="color:#36c0f4;">AI-powered impact</span> 🚀</span>
+  <span style="color:#b3b9c5;">Turning ideas into <span style="color:#36c0f4;">AI-powered impact</span> 🚀</span>
 </p>
 
 <p align="center">
@@ -158,15 +155,21 @@
 
 ---
 
+<div align="center">
+
 ## ✨ About Me
 
-I'm an enthusiastic **AI/ML Engineer** passionate about building intelligent, real-world solutions in deep learning, NLP, computer vision, and MLOps.  
+I'm an enthusiastic <b>AI/ML Engineer</b> passionate about building intelligent, real-world solutions in deep learning, NLP, computer vision, and MLOps.<br>
 I believe in lifelong learning, open source, and teamwork. I love turning cutting-edge tech into practical value for everyone.
 
-- 👩‍🎓 BTech in Computer Science Engineering
-- 💡 Always exploring new AI trends & tools
-- 🤝 Open to collaboration or tech chats!
-- 🌱 Currently focusing on LLMs & MLOps
+<ul align="center">
+  <li>👩‍🎓 BTech in Computer Science Engineering</li>
+  <li>💡 Always exploring new AI trends & tools</li>
+  <li>🤝 Open to collaboration or tech chats!</li>
+  <li>🌱 Currently focusing on LLMs & MLOps</li>
+</ul>
+
+</div>
 
 ---
 
@@ -206,35 +209,51 @@ I believe in lifelong learning, open source, and teamwork. I love turning cuttin
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
-- **BTech in Computer Science Engineering**  
-  _ITM (SLS) Baroda University_  
-  **CGPA:** 8.6  
-  _2021–2025
+<div align="center">
 
-- **Class XII**  
-  _Shri J.R. Shah Bright Eng. Medium School_  
-  **Grade:** B2
+<b>BTech in Computer Science Engineering</b><br>
+<em>ITM (SLS) Baroda University</em><br>
+<b>CGPA:</b> 8.6<br>
+<em>2021–2025</em>
 
-- **Class X**  
-  _Bright Day School_  
-  **Grade:** B1
+<br><br>
 
----
+<b>Class XII</b><br>
+<em>Shri J.R. Shah Bright Eng. Medium School</em><br>
+<b>Grade:</b> B2
 
-## 💼 Experience
+<br><br>
 
-- **AI/ML Intern** @ Artem HealthTech _(Jan 2025 – Jul 2025, Completed)_  
-  Ahmedabad, India  
-  - Built machine data integration solutions for healthcare platforms (automation & data flow)
-  - Deployed real-time object detection using MMDetection RTMDet-tiny
-  - Developed agentic speech-to-text pipelines with open-source models
-  - Fine-tuned finance-specific LLM (Flan-T5), prompt optimization
+<b>Class X</b><br>
+<em>Bright Day School</em><br>
+<b>Grade:</b> B1
+
+</div>
 
 ---
 
-## 🧩 Projects
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+<b>AI/ML Intern</b> @ Artem HealthTech <em>(Jan 2025 – Jul 2025, Completed)</em><br>
+Ahmedabad, India
+<ul align="center">
+  <li>Built machine data integration solutions for healthcare platforms (automation & data flow)</li>
+  <li>Deployed real-time object detection using MMDetection RTMDet-tiny</li>
+  <li>Developed agentic speech-to-text pipelines with open-source models</li>
+  <li>Fine-tuned finance-specific LLM (Flan-T5), prompt optimization</li>
+</ul>
+
+</div>
+
+---
+
+<h2 align="center">🧩 Projects</h2>
+
+<div align="center">
 
 <details>
 <summary><b>AutoML Pipeline Service</b></summary>
@@ -282,9 +301,11 @@ I believe in lifelong learning, open source, and teamwork. I love turning cuttin
 </ul>
 </details>
 
+</div>
+
 ---
 
-## 📬 Contact
+<h2 align="center">📬 Contact</h2>
 
 <p align="center">
   <a href="mailto:twishap534@gmail.com">twishap534@gmail.com</a> &nbsp;|&nbsp; <a href="tel:+918160893358">+91 8160893358</a>
