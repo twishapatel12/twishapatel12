@@ -9,7 +9,7 @@
 
 /* --- General/Body --- */
 body {
-  background: var(--bg-dark);
+  background: var(--bg-dark) !important;
   color: var(--text-main);
   font-family: "Nunito", sans-serif;
 }
