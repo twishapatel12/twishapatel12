@@ -2,7 +2,7 @@
    <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hello, I'm <span style="color:#F7768E;">Twisha Patel</span>!</h1>
   <br>
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>-->
-  <img src="images/logo.png" width="140" alt="Twisha Patel" style="border-radius:50%; box-shadow: 0 4px 24px #36c0f499;">
+  <img src="images/logo.png" width="140" alt="Twisha Patel" style="border-radius:50%; box-shadow: 0 4px 24px #36c0f499;"><br>
   <img src="https://komarev.com/ghpvc/?username=twishapatel12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </div>
 
@@ -52,11 +52,11 @@
 
 <div align="center">
   <ul type="none">
-    <li>🔹 <strong>AI/ML Intern</strong> @ Artem HealthTech <em>(Jan 2025 – July 2025)</em></li>
-    <li>🔹 <strong>Web Development & Design Intern</strong> @ Oasis Infobyte <em>(Sept 2023 – Oct 2023)</em></li>
-    <li>🔹 <strong>Web Development Intern</strong> @ Acmegrade <em>(Sept 2023 – Nov 2023)</em></li>
-    <li>🔹 <strong>Full Stack Web Developer Intern</strong> @ Slashmark Internship <em>(Nov 2023 – Feb 2024)</em></li>
-    <li>🔹 <strong>Full Stack Web Developer Intern</strong> @ Business Web Solutions <em>(Dec 2023 – Mar 2024)</em></li>
+    <li>    <strong>AI/ML Intern</strong> @ Artem HealthTech <em>(Jan 2025 – July 2025)</em></li>
+    <li>🔹 <strong>Built machine data integration solutions for the healthcare platform (automation & data flow).</li>
+    <li>🔹 <strong>Deployed real-time object detection using MMDetection RTMDet-tiny on live webcam feeds.</li>
+    <li>🔹 <strong>Developed agentic speech-to-text pipelines using open source models.</li>
+    <li>🔹 <strong>Fine-tuned finance-specific LLM (Flan-T5), optimized prompts for domain accuracy.</li>
   </ul>
 </div>
 
@@ -122,8 +122,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=twishapatel12&show_icons=true&theme=radical" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twishapatel12&layout=compact&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twishapatel12&theme=radical" />
 </p>
 
 ---
