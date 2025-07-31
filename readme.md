@@ -157,45 +157,57 @@
   <span style="color:#2892c9;">🏆</span> <span style="font-weight:800;">Certifications</span>
 </h2>
 
-<div align="center" style="font-family:Nunito,Segoe UI,Arial,sans-serif; font-size:1.12em;">
-  <table width="95%" align="center" style="border: none; max-width:750px;">
+<div align="center" style="font-family:Nunito,Segoe UI,Arial,sans-serif; font-size:1.08em;">
+  <table width="96%" align="center" style="border:none; max-width:780px;">
     <tr>
-      <td align="right" width="44%">
-        <img src="https://img.shields.io/badge/🐍_Python_Intro_to_Data_Science_%26_ML-2892c9?style=for-the-badge" alt="Intro to DS/ML" />
+      <td align="right" width="46%">
+        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
+          🐍 Python Intro to Data Science & ML
+        </span>
       </td>
-      <td align="left" width="56%">
-        Udemy<br>
-        <span style="color:#b5cbe1;">March 2025</span>
+      <td align="left" width="54%">
+        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Udemy</span> <br>
+        <span style="color:#b5cbe1;">March 2025</span> <br>
+        <span style="color:#cfe9ff;">Covered data wrangling, EDA, feature engineering, and built first ML models in Python.</span>
       </td>
     </tr>
-    <tr><td colspan="2" height="10"></td></tr>
+    <tr><td colspan="2" height="13"></td></tr>
     <tr>
       <td align="right">
-        <img src="https://img.shields.io/badge/🤖_Machine_Learning_with_Python-2892c9?style=for-the-badge" alt="ML with Python" />
+        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
+          🤖 Machine Learning with Python
+        </span>
       </td>
       <td align="left">
-        Udemy<br>
-        <span style="color:#b5cbe1;">January 2025</span>
+        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Udemy</span> <br>
+        <span style="color:#b5cbe1;">January 2025</span> <br>
+        <span style="color:#cfe9ff;">Implemented supervised and unsupervised learning algorithms and built end-to-end ML pipelines.</span>
       </td>
     </tr>
-    <tr><td colspan="2" height="10"></td></tr>
+    <tr><td colspan="2" height="13"></td></tr>
     <tr>
       <td align="right">
-        <img src="https://img.shields.io/badge/💻_Python_Development_&_Data_Science-2892c9?style=for-the-badge" alt="Python Development DS" />
+        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
+          💻 Python Development & Data Science
+        </span>
       </td>
       <td align="left">
-        Udemy<br>
-        <span style="color:#b5cbe1;">August 2024</span>
+        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Udemy</span> <br>
+        <span style="color:#b5cbe1;">August 2024</span> <br>
+        <span style="color:#cfe9ff;">Gained strong foundations in Python programming, data analysis, and data visualization.</span>
       </td>
     </tr>
-    <tr><td colspan="2" height="10"></td></tr>
+    <tr><td colspan="2" height="13"></td></tr>
     <tr>
       <td align="right">
-        <img src="https://img.shields.io/badge/📊_Big_Data_Analytics_Course-2892c9?style=for-the-badge" alt="Big Data Analytics" />
+        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
+          📊 Big Data Analytics Course
+        </span>
       </td>
       <td align="left">
-        Great Learning<br>
-        <span style="color:#b5cbe1;">October 2024</span>
+        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Great Learning</span> <br>
+        <span style="color:#b5cbe1;">October 2024</span> <br>
+        <span style="color:#cfe9ff;">Explored Hadoop, Spark, and big data frameworks for scalable analytics and machine learning.</span>
       </td>
     </tr>
   </table>
