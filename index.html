@@ -19,11 +19,12 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Nunito:400,700" rel="stylesheet">
 </head>
 <body>
+  
   <!-- Preloader -->
   <div id="preloader">
-    <div class="preloader-inner">
-      <img src="images/logo.png" alt="Twisha Logo" class="preloader-logo">
-      <div class="preloader-spinner"></div>
+    <div class="preloader-spinner-outer">
+      <span class="preloader-spinner"></span>
+      <img src="images/logo.png" alt="Twisha Logo" class="preloader-logo-centered">
     </div>
   </div>
 
@@ -405,13 +406,13 @@
   </script>
 
   <script>
-    window.addEventListener('load', function() {
-      setTimeout(function() { // Optional: add slight delay for smoothness
-        var preloader = document.getElementById('preloader');
-        if(preloader) preloader.classList.add('hide');
-      }, 400); // adjust time as you wish (ms)
-    });
-  </script>
+  window.addEventListener('load', function() {
+    setTimeout(function() {
+      var preloader = document.getElementById('preloader');
+      if(preloader) preloader.classList.add('hide');
+    }, 400);
+  });
+</script>
 
   <script src="lib/jquery-3.3.1.min.js"></script>
   <script src="lib/popper.min.js"></script>
