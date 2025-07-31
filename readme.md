@@ -158,26 +158,45 @@
 </h2>
 
 <div align="center" style="font-family:Nunito,Segoe UI,Arial,sans-serif; font-size:1.12em;">
-  <table width="90%" align="center" style="border: none; max-width:650px;">
+  <table width="95%" align="center" style="border: none; max-width:750px;">
     <tr>
-      <td align="right" width="42%">
-        <img src="https://img.shields.io/badge/📜_Udemy_Ubuntu_Linux-2892c9?style=for-the-badge" alt="Udemy Ubuntu" />
+      <td align="right" width="44%">
+        <img src="https://img.shields.io/badge/🐍_Python_Intro_to_Data_Science_%26_ML-2892c9?style=for-the-badge" alt="Intro to DS/ML" />
       </td>
-      <td align="left" width="58%">Mastered Linux essentials and shell scripting.</td>
+      <td align="left" width="56%">
+        Udemy<br>
+        <span style="color:#b5cbe1;">March 2025</span>
+      </td>
     </tr>
-    <tr><td colspan="2" height="8"></td></tr>
+    <tr><td colspan="2" height="10"></td></tr>
     <tr>
       <td align="right">
-        <img src="https://img.shields.io/badge/🌐_Udemy_jQuery_Basics-2892c9?style=for-the-badge" alt="jQuery Basics" />
+        <img src="https://img.shields.io/badge/🤖_Machine_Learning_with_Python-2892c9?style=for-the-badge" alt="ML with Python" />
       </td>
-      <td align="left">Learned the fundamentals of jQuery for web interactivity.</td>
+      <td align="left">
+        Udemy<br>
+        <span style="color:#b5cbe1;">January 2025</span>
+      </td>
     </tr>
-    <tr><td colspan="2" height="8"></td></tr>
+    <tr><td colspan="2" height="10"></td></tr>
     <tr>
       <td align="right">
-        <img src="https://img.shields.io/badge/📊_Udemy_Web_Analytics-2892c9?style=for-the-badge" alt="Web Analytics" />
+        <img src="https://img.shields.io/badge/💻_Python_Development_&_Data_Science-2892c9?style=for-the-badge" alt="Python Development DS" />
       </td>
-      <td align="left">Analyzed web traffic and digital strategies using Similarweb.</td>
+      <td align="left">
+        Udemy<br>
+        <span style="color:#b5cbe1;">August 2024</span>
+      </td>
+    </tr>
+    <tr><td colspan="2" height="10"></td></tr>
+    <tr>
+      <td align="right">
+        <img src="https://img.shields.io/badge/📊_Big_Data_Analytics_Course-2892c9?style=for-the-badge" alt="Big Data Analytics" />
+      </td>
+      <td align="left">
+        Great Learning<br>
+        <span style="color:#b5cbe1;">October 2024</span>
+      </td>
     </tr>
   </table>
 </div>
