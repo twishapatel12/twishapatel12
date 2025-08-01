@@ -208,31 +208,6 @@
 ---
 
 <h2 align="center" style="font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:2.2em; color:#fff;">
-  <span style="color:#2892c9;">📅</span> <span style="font-weight:800;">My AI Journey</span>
-</h2>
-
-<div align="center" style="font-family:Nunito,Segoe UI,Arial,sans-serif; font-size:1.12em; max-width:720px;">
-  <table width="90%" align="center" style="border: none;">
-    <tr>
-      <td align="right" width="180px" valign="top"><b>2023</b></td>
-      <td>Started with Python, web dev, and basic ML projects.</td>
-    </tr>
-    <tr><td colspan="2" height="10"></td></tr>
-    <tr>
-      <td align="right" width="180px" valign="top"><b>2024</b></td>
-      <td>Explored deep learning, NLP, and LLMs; built voice assistant and AutoML pipeline.</td>
-    </tr>
-    <tr><td colspan="2" height="10"></td></tr>
-    <tr>
-      <td align="right" width="180px" valign="top"><b>2025</b></td>
-      <td>Interned in AI/ML roles, built real-time object detection & finance LLMs, growing expertise in computer vision and GenAI.</td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center" style="font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:2.2em; color:#fff;">
   <span style="color:#2892c9;">📬</span> <span style="font-weight:800;">Let's Connect</span>
 </h2>
 
