@@ -157,57 +157,49 @@
   <span style="color:#2892c9;">🏆</span> <span style="font-weight:800;">Certifications</span>
 </h2>
 
-<div align="center" style="font-family:Nunito,Segoe UI,Arial,sans-serif; font-size:1.08em;">
-  <table width="96%" align="center" style="border:none; max-width:780px;">
+<div align="center" style="font-family:Nunito,Segoe UI,Arial,sans-serif; font-size:1.09em;">
+  <table width="95%" align="center" style="border:none; max-width:760px;">
     <tr>
-      <td align="right" width="46%">
-        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
-          🐍 Python Intro to Data Science & ML
-        </span>
+      <td align="right" width="43%">
+        <img src="https://img.shields.io/badge/🐍_Python_Intro_to_Data_Science_%26_ML-2892c9?style=for-the-badge" alt="Intro to DS/ML" />
       </td>
-      <td align="left" width="54%">
-        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Udemy</span> <br>
-        <span style="color:#b5cbe1;">March 2025</span> <br>
-        <span style="color:#cfe9ff;">Covered data wrangling, EDA, feature engineering, and built first ML models in Python.</span>
+      <td align="left" width="57%">
+        <b>Python: Introduction to Data Science and Machine Learning</b><br>
+        <span style="color:#a7c9e8;">Udemy &mdash; March 2025</span><br>
+        Learned basics of data analysis, visualization, and how to build simple ML models in Python.
       </td>
     </tr>
-    <tr><td colspan="2" height="13"></td></tr>
+    <tr><td colspan="2" height="11"></td></tr>
     <tr>
       <td align="right">
-        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
-          🤖 Machine Learning with Python
-        </span>
+        <img src="https://img.shields.io/badge/🤖_Machine_Learning_with_Python-2892c9?style=for-the-badge" alt="ML with Python" />
       </td>
       <td align="left">
-        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Udemy</span> <br>
-        <span style="color:#b5cbe1;">January 2025</span> <br>
-        <span style="color:#cfe9ff;">Implemented supervised and unsupervised learning algorithms and built end-to-end ML pipelines.</span>
+        <b>Machine Learning Course with Python</b><br>
+        <span style="color:#a7c9e8;">Udemy &mdash; January 2025</span><br>
+        Trained different ML algorithms and learned to build projects using real-world datasets.
       </td>
     </tr>
-    <tr><td colspan="2" height="13"></td></tr>
+    <tr><td colspan="2" height="11"></td></tr>
     <tr>
       <td align="right">
-        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
-          💻 Python Development & Data Science
-        </span>
+        <img src="https://img.shields.io/badge/💻_Python_Development_&_Data_Science-2892c9?style=for-the-badge" alt="Python Dev DS" />
       </td>
       <td align="left">
-        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Udemy</span> <br>
-        <span style="color:#b5cbe1;">August 2024</span> <br>
-        <span style="color:#cfe9ff;">Gained strong foundations in Python programming, data analysis, and data visualization.</span>
+        <b>Python Development & Data Science</b><br>
+        <span style="color:#a7c9e8;">Udemy &mdash; August 2024</span><br>
+        Gained hands-on skills in Python programming and data science basics.
       </td>
     </tr>
-    <tr><td colspan="2" height="13"></td></tr>
+    <tr><td colspan="2" height="11"></td></tr>
     <tr>
       <td align="right">
-        <span style="display:inline-block; font-family:Montserrat,Segoe UI,Arial,sans-serif; font-size:1.1em; font-weight:700; color:#2892c9; letter-spacing:0.5px; background:#18242c; border-radius:6px; padding:10px 14px;">
-          📊 Big Data Analytics Course
-        </span>
+        <img src="https://img.shields.io/badge/📊_Big_Data_Analytics_Course-2892c9?style=for-the-badge" alt="Big Data Analytics" />
       </td>
       <td align="left">
-        <span style="font-size:1.03em; color:#a6c7e2; font-weight:600;">Great Learning</span> <br>
-        <span style="color:#b5cbe1;">October 2024</span> <br>
-        <span style="color:#cfe9ff;">Explored Hadoop, Spark, and big data frameworks for scalable analytics and machine learning.</span>
+        <b>Big Data Analytics Course</b><br>
+        <span style="color:#a7c9e8;">Great Learning &mdash; October 2024</span><br>
+        Explored the basics of big data and how to analyze large datasets using modern tools.
       </td>
     </tr>
   </table>
